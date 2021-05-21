@@ -4,7 +4,7 @@
     return false;
   });
   $(".sp").click(function () {
-    $("body,html").animate({ scrollTop: $("#khoisanpham").offset().top }, 700);
+    $("body,html").animate({ scrollTop: $("#dam-me").offset().top }, 700);
     return false;
   });
 
@@ -12,5 +12,22 @@
     $("body,html").animate({ scrollTop: $("#phanhoi").offset().top }, 700);
     return false;
   });
+
+  $(".tt").click(function () {
+    $("body,html").animate({ scrollTop: $("#thongtin").offset().top }, 700);
+    return false;
+  });
+  $(".ht").click(function () {
+    $("body,html").animate({ scrollTop: $("#ok_ht").offset().top }, 700);
+    return false;
+  });
+
+ 
+
+
+  
   
 });
+
+
+
