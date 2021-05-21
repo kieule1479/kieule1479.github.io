@@ -3,8 +3,14 @@
   padding: 0;
 }
 h2.kk_ok {
-    font-size: 2em !important;
-} 
+  font-size: 2em !important;
+}
+h2.kk_01 {
+  font-size: 2.25em;
+  font-weight: 100;
+  margin-bottom: 0;
+  margin-top: 25px;
+}
 
 .xuong:hover {
   bottom: 4%;
@@ -220,29 +226,4 @@ nav.navbar.navbar-light.bg-faded {
     text-align: center;
     width: 100%;
   }
-
-
-
-  /* h1 {
-    font-family: Georgia, "Times New Roman", Times, serif;
-    color: rgb(36, 73, 153);
-  }
-  h2 {
-    font-family: monospace;
-  }
-  body {
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-  .header-content {
-    margin-top: 50px;
-    text-align: center;
-  }
-  .masonry-layout {
-    display: flex;
-    margin-top: 30px;
-  }
-  .masonry-item img {
-    width: 100%;
-  } */
 }
