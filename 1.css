@@ -100,10 +100,12 @@ a.nuthire.btn.btn-primary {
   line-height: 24px;
   width: 46%;
   margin: auto;
-  margin-bottom: 34px;
+  margin-bottom: 22px;
 }
 
 .tt img {
+  margin-top: -117px;
+
   border-radius: 50%;
   margin-bottom: 50px;
 }
@@ -120,7 +122,7 @@ a.navbar-brand {
 }
 
 .khoitt1 {
-  height: 120%;
+  height: 100%;
   width: 100%;
   background: #e9585f;
   position: relative;
