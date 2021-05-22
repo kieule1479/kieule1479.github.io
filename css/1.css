@@ -116,7 +116,7 @@ a.nuthire.btn.btn-primary {
 .tt img {
   margin-top: -79px;
   border-radius: 50%;
-      width: 20%;
+  width: 20%;
 
   margin-bottom: 33px;
 }
@@ -185,18 +185,18 @@ nav.navbar.navbar-light.bg-faded {
   * {
   }
   .u6 img {
-    width: 400px !important;
-    height: 200px !important;
+    width: 100% !important;
+    height: 100% !important;
   }
   .khoittnho p {
-        text-align: center;
-            margin: 20px;
-
-
+    text-align: center;
+    margin: 20px;
+  }
+  .kk_1 {
+    padding: 0px 0px 0px 0px !important;
   }
   .span.motaqt {
-        margin: 20px;
-
+    margin: 20px;
   }
   ul.nav.navbar-nav.float-xs-right {
     margin-top: -6px !important;
@@ -206,7 +206,10 @@ nav.navbar.navbar-light.bg-faded {
     padding: 0 !important;
   }
   .row {
-    margin-left: -19px !important;
+    /* margin-left: -19px !important; */
+  }
+  a.image.full {
+    padding: 5px 5px 5px 5px !important;
   }
 
   .khoitt1 {
