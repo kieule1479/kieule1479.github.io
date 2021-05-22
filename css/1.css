@@ -188,9 +188,14 @@ nav.navbar.navbar-light.bg-faded {
   }
   .khoittnho p {
         text-align: center;
+            margin: 20px;
+
 
   }
+  .span.motaqt {
+        margin: 20px;
 
+  }
   ul.nav.navbar-nav.float-xs-right {
     margin-top: -6px !important;
   }
