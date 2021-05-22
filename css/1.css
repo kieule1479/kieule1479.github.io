@@ -110,6 +110,7 @@ a.nuthire.btn.btn-primary {
   width: 46%;
   margin: auto;
   margin-bottom: 22px;
+  text-align: center;
 }
 
 .tt img {
@@ -181,7 +182,29 @@ nav.navbar.navbar-light.bg-faded {
 @media (max-width: 576px) {
   * {
   }
+  .u6 img {
+    width: 400px !important;
+    height: 200px !important;
+  }
+  .khoittnho p {
+        text-align: center;
 
+  }
+
+  ul.nav.navbar-nav.float-xs-right {
+    margin-top: -6px !important;
+  }
+  #footer {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .row {
+    margin-left: -19px !important;
+  }
+
+  .khoitt1 {
+    height: 775px;
+  }
   h2.tieudecap2.text-sm-left.text-xs-center {
     margin-top: 25px;
   }

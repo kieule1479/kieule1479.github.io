@@ -21,6 +21,10 @@
     $("body,html").animate({ scrollTop: $("#ok_ht").offset().top }, 700);
     return false;
   });
+  $(".mt").click(function () {
+    $("body,html").animate({ scrollTop: $("#ok_mt").offset().top }, 700);
+    return false;
+  });
 
  
 
